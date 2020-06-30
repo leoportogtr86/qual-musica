@@ -5,6 +5,7 @@ certa.onclick = function () {
 
     
     certa_play.play()
+    certa.classList.add('certa')
 
 
     setTimeout(() => {
